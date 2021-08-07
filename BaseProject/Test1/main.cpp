@@ -15,7 +15,5 @@ void main()
 	{
 		printf("Good Bye !");
 	}
-
-
 	return;
 }
